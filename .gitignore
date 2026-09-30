@@ -1,13 +1,72 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]serSettings/
-.vs/
-.idea/
+# ============================================
+# Unity - Carpetas generadas automáticamente
+# ============================================
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+Builds/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# ============================================
+# Unity - Archivos de compilación
+# ============================================
 *.csproj
 *.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============================================
+# Unity - Archivos de meta generados
+# ============================================
 *.apk
 *.aab
+*.unitypackage
+*.app
+
+# ============================================
+# Unity - Archivos de caché
+# ============================================
+*.stackdump
+*.pidb
+*.pdb
+
+# ============================================
+# Sistema operativo
+# ============================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ============================================
+# Editores de código
+# ============================================
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# Archivos de prueba y temporales
+# ============================================
+*.tmp
+*.temp
+*.bak
+*.old
