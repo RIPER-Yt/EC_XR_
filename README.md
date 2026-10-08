@@ -1,9 +1,4 @@
-# EC_XR_QUISPE-SEBASTIAN - Laboratorio de Realidad Extendida
 
-## Información del Estudiante
-- **Nombre:** Quispe Sebastian
-- **Curso:** Laboratorio de Realidad Extendida (XR) para VideoJuegos
-- **Universidad:** Universidad Autónoma del Perú
 - **Fecha:** 2026
 
 ---
